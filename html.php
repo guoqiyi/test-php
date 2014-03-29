@@ -8,12 +8,11 @@
 <header>
     <nav>
         <?php
-        echo "<ul><li>One</li><li>Two</li><li>Three</li></ul>"
+        echo("<ul><li>One</li><li>Two</li><li>Three</li></ul>");
         ?>
     </nav>
 </header>
 <footer>
-
 </footer>
 </body>
 </html>
